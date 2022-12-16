@@ -1,0 +1,16 @@
+h2 {
+    font-size: 2em;
+    text-align: left;
+}
+
+.help-container {
+    max-width: 800px;
+    min-width: 300px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.rules-list-item {
+    margin-bottom: 30px;
+}
+

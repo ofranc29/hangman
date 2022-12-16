@@ -1,0 +1,13 @@
+.random-word-container {
+    text-align: center;
+    margin: 30px auto;
+}
+.guess-word {
+    font-size: 2.5em;
+    letter-spacing: 15px;
+    text-align: center;
+}
+
+.guess-letter {
+    color: #2274a5;
+}

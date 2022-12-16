@@ -1,0 +1,22 @@
+.hint-btn {
+    background-color: #e83f6f;
+    border: 3px solid #e83f6f;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1.3em;
+    color: #fff;
+    width: 120px;
+}
+
+.hint-btn:hover {
+    background-color: #ffbf00;
+    color: #2274a5;
+    cursor: pointer;
+}
+
+.selected, .selected:hover {
+    background-color: #d8d4d5;
+    color: #525050;
+    border: 1px solid #525050;
+    cursor: default;
+}

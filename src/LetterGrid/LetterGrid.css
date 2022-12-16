@@ -1,0 +1,34 @@
+.letter-grid {
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.letter-choice {
+    font-size: 2em;
+    border: 1px solid #e83f6f;
+    background-color: #e83f6f   ;
+    color: #d8d4d5;
+    font-weight: 600;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 50px;
+}
+
+.letter-choice:hover {
+    background-color: #ffbf00;
+    color: #2274a5;
+    border: #ffbf00 1px solid;
+    cursor: pointer;
+}
+
+.selected, .selected:hover {
+    background-color: #d8d4d5;
+    color: #525050;
+    border: 1px solid #525050;
+    cursor: default;
+}

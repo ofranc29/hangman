@@ -1,0 +1,6 @@
+.hangman-img img{
+    border: 5px dotted #1d1a05;
+    border-radius: 10px;
+    width: 450px;
+    padding: 30px;
+}
